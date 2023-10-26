@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(CPP2 main.cpp
         firstTask/FirstTask.cpp
-        firstTask/FirstTask.h)
+        firstTask/FirstTask.h
+        secondTask/SecondTask.cpp
+        secondTask/SecondTask.h)
