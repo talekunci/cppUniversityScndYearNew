@@ -7,4 +7,6 @@ add_executable(CPP2 main.cpp
         firstTask/FirstTask.cpp
         firstTask/FirstTask.h
         secondTask/SecondTask.cpp
-        secondTask/SecondTask.h)
+        secondTask/SecondTask.h
+        thirdTask/ThirdTask.cpp
+        thirdTask/ThirdTask.h)
